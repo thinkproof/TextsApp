@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Texts App</string>
+    <string name="hint">Enter something here</string>
+    <string name="click_button1_str">SUBMIT</string>
+    <string name="click_button2_str">NEXT</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
